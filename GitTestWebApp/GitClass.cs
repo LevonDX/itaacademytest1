@@ -7,5 +7,6 @@ namespace GitTestWebApp
 {
     public class GitClass
     {
+        // inch vor xeloq baner
     }
 }
